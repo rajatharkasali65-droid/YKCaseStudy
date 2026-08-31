@@ -17,6 +17,8 @@ function figmaAssetResolver() {
 }
 
 export default defineConfig({
+  // Required for GitHub Pages project site: https://<user>.github.io/YKCaseStudy/
+  base: '/YKCaseStudy/',
   plugins: [
     figmaAssetResolver(),
     // The React and Tailwind plugins are both required for Make, even if
