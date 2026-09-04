@@ -291,34 +291,20 @@ export default function App() {
                   India's home improvement market needed a better front door
                 </h3>
                 <div className="space-y-5 text-[#4A4A5A] leading-relaxed text-lg">
-                  <p>
-                    YouKraft is an online marketplace for home improvement products — carpentry,
-                    hardware, painting, tiles, plumbing, and interior furnishings. Founded in 2018
-                    by <strong className="text-[#0D0D0D]">Manav Goel, Rajib Saha, and Torun Mathias</strong>,
-                    the company has raised <strong className="text-[#0D0D0D]">$10M in seed funding</strong> and
-                    operates a mobile app on both iOS and Android for ordering, tracking, and delivery.
-                  </p>
-                  <p>
-                    Competing against 133 active rivals — including Infra.Market, JSW One MSME, and
-                    ArisInfra — YouKraft's legacy site was converting at just{" "}
-                    <strong className="text-[#E07B39]">1.4%</strong>, against a 4.2% category benchmark.
-                  </p>
+                  <p>YouKraft is an online marketplace for home improvement products carpentry, hardware, painting, tiles, plumbing, and interior furnishings. Founded in 2018 by <strong className="text-[#0D0D0D]">Manav Goel, Rajib Saha, and Torun Mathias</strong>, the company has raised <strong className="text-[#0D0D0D]">$10M in seed funding</strong> and operates a mobile app on both iOS and Android for ordering, tracking, and delivery.</p>
+                  <p>Competing against 133 active rivals including Infra.Market, JSW One MSME, and ArisInfra YouKraft's legacy site was converting at just , against a 4.2% category benchmark.<strong className="text-[#E07B39]">1.4%</strong></p>
                 </div>
               </div>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
                 <div className="bg-[#F7F7F9] border border-black/8 rounded-2xl p-7">
                   <div className="text-[#E07B39] text-xs font-bold tracking-widest uppercase mb-4">The Brief</div>
-                  <p className="text-[#4A4A5A] text-sm leading-relaxed">
-                    Redesign the web marketplace and mobile app to improve conversion, reduce
-                    cart abandonment, and introduce real-time order tracking — positioning
-                    YouKraft ahead of competitors on customer experience.
-                  </p>
+                  <p className="text-[#4A4A5A] text-sm leading-relaxed">Redesign the web marketplace and mobile app to improve conversion, reduce cart abandonment, and introduce real time order tracking positioning YouKraft ahead of competitors on customer experience.</p>
                 </div>
                 <div className="bg-[#E07B39] rounded-2xl p-7">
                   <div className="text-white/70 text-xs font-bold tracking-widest uppercase mb-4">Conversion Target</div>
                   <div className="text-white font-black text-5xl mb-1" style={{ fontFamily: "'Satoshi', sans-serif" }}>3.5%</div>
-                  <p className="text-white/70 text-sm leading-relaxed">Within 90 days of launch — 2.5× the pre-project baseline of 1.4%.</p>
+                  <p className="text-white/70 text-sm leading-relaxed">Within 90 days of launch 2.5× the pre-project baseline of 1.4%.</p>
                 </div>
               </div>
 
